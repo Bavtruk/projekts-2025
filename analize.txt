@@ -1,0 +1,34 @@
+  Analīze - Problēmas apraksts, kāpēc tā ir aktuāla
+Alias ir populāra galda vārdu spēle, kas attīsta vārdu krājumu, domāšanu un sadarbību. Tomēr fiziskās spēles versijas izmantošana var būt neērta ceļojumos, brīvdienās vai pandēmijas laikā. Tāpat spēlei bieži nepieciešama kartīšu komplekta klātbūtne, kurš var pazust vai nolietoties. Digitāls risinājums – īpaši Telegram bots – ļauj spēli spēlēt jebkurā vietā, jebkurā laikā, pat attālināti.
+
+  Analīze - Mērķauditorija, kura lietos programmu
+Jaunieši un pieaugušie (12–40 gadi),
+Draugu grupas vai ģimenes,
+Telegram lietotāji,
+Cilvēki, kuri meklē ātras, interaktīvas spēles bez lejupielādēšanas.
+
+  Analīze - eksistējošo risinājumu analīze, ekrānšāviņi, plusi un mīnusi
++Alias Party App iOS/Android Bagāts interfeiss, daudz režīmu Nepieciešama lejupielāde, -reklamas
+
+Projektēšana - specifikācija, vismaz 5 funkcionālas un 5 nefunkcionālas prasības
+Lietotājs var sākt jaunu spēli ar komandu /start.
+Lietotāji var pievienoties spēlei, izmantojot pogas vai komandas.
+Bots parāda vārdu, ko jāapraksta (bez rādīšanas citiem).
+Laika limits vārdu skaidrošanai  60 sekundes.
+Punktu skaitīšana katrai komandai, spēles rezultātu parādīšana.
+
+5 nefunkcionalas:
+
+Bots atbild momentāli .
+Datu glabāšana drošā vidē (piemēram, SQLite).
+Lietotāja interfeiss pielāgots Telegram – ar inline pogām.
+Atbalsts vairākām valodām (LV, EN).
+Daudz tēmas.
+
+Plānošana - darba uzdevumu saraksts, vismaz 5
+Izveidot Telegram botu.
+Izstrādāt spēles loģiku (vārdu izloze, laiks, punkti).
+Implementēt komandas: /start,  /score.
+Testēt ar reāliem lietotājiem.
+Izdarit prezentāciju.
+Nodrošināt nepārtrauktu darbību.
