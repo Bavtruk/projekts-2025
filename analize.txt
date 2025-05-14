@@ -20,7 +20,7 @@ Punktu skaitīšana katrai komandai, spēles rezultātu parādīšana.
   5 nefunkcionalas:
 
 Bots atbild momentāli .
-Datu glabāšana drošā vidē (piemēram, SQLite).
+Datu glabāšana drošā vidē (piemēram, CSV).
 Lietotāja interfeiss pielāgots Telegram – ar inline pogām.
 Atbalsts vairākām valodām (LV, EN).
 Daudz tēmas.
