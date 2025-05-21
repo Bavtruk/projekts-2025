@@ -1,0 +1,13 @@
+2 veiksmes scenāriji:
+1.Ja pirmā komanda sāk izskaidrot vārdus tūlīt pēc signāla, un ja spēlētāji ātri saprot skaidrojumus un netērē laiku, tad 60 sekunžu laikā viņi uzminēs 7 vārdus un iegūs 7 punktus.
+2.Ja otra komanda skaidro skaidri un ar piemēriem, un ja uzminētājs netraucē un uzmanīgi klausās, tad 60 sekunžu laikā viņi uzminēs 8 vārdus un izies priekšā.
+
+4 lietošanas scenāriji:
+1.Ja komanda izskaidro 5 vārdus, bet 1 vārdu izlaidīs, un ja spēlē par izlaidumu atņem 1 punktu, tad viņi saņems 4 punktus, nevis 5.
+2.Ja skaidrošanas procesā laiks beidzas vārda vidū, un ja šis vārds netiek pieņemts, tad komanda saņem tikai 3 punktus par iepriekšējiem vārdiem.
+3.Ja komandas spēlētājs sāk skaidrot vārdus, bet izmanto pārāk sarežģītus formulējumus, un, ja minētājs zaudē laiku domāšanai, tad komanda paspēj uzminēt tikai 3 vārdus 60 sekunžu laikā.
+4.Ja spēlētāji sāk strīdēties spēles laikā, un ja laiks tiek tērēts, lai noskaidrotu, kurš uzmin, tad tiek uzminēti tikai 2 vārdi, un raunds beidzas ar minimālo rezultātu.
+
+2 robež-scenāriji:
+1.Ja abi komandas spēlētāji sāk dot norādes vienlaikus, un ja tas pārkāpj noteikumus, tad komanda izlaida gājienu un nesaņem punktus.
+2.Ja taimeris ir salūzis un raunds bija jāpārtrauc pēc 10 sekundēm, un ja laiks netiek atjaunots, tad komanda zaudē iespēju uzminēt vārdus un saņem 1 punktu vai 0.
